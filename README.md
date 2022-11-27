@@ -1,7 +1,7 @@
 Hi 👋 My name is oussama krich
 ==============================
 
-*   🌍  I'm based in Taroudant
+*   🌍  I'm based in Khouribga
 *   ✉️  You can contact me at [sakawioussama@gmail.com](mailto:sakawioussama@gmail.com)
 *   🧠  I'm learning Réseau Informatique
 ### Skills
