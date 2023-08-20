@@ -11,7 +11,7 @@ Hi 👋 My name is oussama krich
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
 </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="URL_TO_HTML_IMAGE" width="36" height="36" alt="HTML" />
+  <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="36" height="36" alt="HTML" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
