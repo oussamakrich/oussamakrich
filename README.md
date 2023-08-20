@@ -3,7 +3,7 @@ Hi 👋 My name is oussama krich
 
 *   🌍  I'm based in Khouribga
 *   ✉️  You can contact me at [sakawioussama@gmail.com](mailto:sakawioussama@gmail.com)
-*   🧠  I'm learning Réseau Informatique
+*   🧠  1337
 ### Skills
 <p align="left">
                                 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
