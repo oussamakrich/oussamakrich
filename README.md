@@ -19,9 +19,12 @@ Hi 👋 My name is oussama krich
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+  <img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="Django" />
+</a>
 
 <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
+  <img src="https://skillicons.dev/icons?i=flutter" width="36" height="36" alt="Flutter" />
 </a>
 
 
