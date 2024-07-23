@@ -9,7 +9,7 @@ Hi 👋 My name is oussama krich
       <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
       </a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" style="text-decoration: none;">
   <img src="https://img.icons8.com/?size=512&id=40669&format=png" width="36" height="36" alt="C++" />
 </a>
   
