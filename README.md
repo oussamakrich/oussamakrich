@@ -20,7 +20,7 @@ Hi 👋 My name is oussama krich
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+<a  href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="Flutter" />
 </a>
   
