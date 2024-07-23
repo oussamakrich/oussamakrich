@@ -58,7 +58,7 @@ Hi 👋 My name is oussama krich
   <a href="https://www.twitter.com/OSakawi" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" />
   </a>
-  <a href="linkedin.com/in/oussamakrich/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/oussamakrich/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" />
   </a>
 
