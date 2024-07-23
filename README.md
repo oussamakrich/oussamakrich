@@ -13,10 +13,10 @@ Hi 👋 My name is oussama krich
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="36" height="36" alt="HTML" />
 </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://img.icons8.com/?size=2x&id=21278&format=png" width="36" height="36" alt="CSS" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
 </a>
 
@@ -24,24 +24,24 @@ Hi 👋 My name is oussama krich
   <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="Flutter" />
 </a>
   
-<a href="https://react.dev/" target="_blank" rel="noreferrer">
+<a href="https://react.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="Flutter" />
 </a>
 
-<a href="[https://flutter.dev/](https://nextjs.org/)" target="_blank" rel="noreferrer">
+<a href="[https://flutter.dev/](https://nextjs.org/)" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Flutter" />
 </a>
 
-<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=django" width="36" height="36" alt="Django" />
 </a>
 
-<a href="https://flutter.dev/" target="_blank" rel="noreferrer">
+<a href="https://flutter.dev/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=flutter" width="36" height="36" alt="Flutter" />
 </a>
 
 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Flutter" />
 </a>
 
