@@ -48,11 +48,10 @@ Hi 👋 My name is oussama krich
 
 </p>
                     
- ### Socials              https://skillicons.dev/icons?i=linkedin
-
+ ### Socials
 <p align="left">  
   <a href="https://www.twitter.com/OSakawi" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="32" height="32" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="32" height="32" />
   </a>
   <a href="linkedin.com/in/oussamakrich/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" width="32" height="32" />
