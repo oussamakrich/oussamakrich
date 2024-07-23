@@ -33,7 +33,7 @@ Hi 👋 My name is oussama krich
   <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="Flutter" />
 </a>
 
-<a href="[https://flutter.dev/](https://nextjs.org/)" target="_blank" rel="noreferrer" style="text-decoration: none;">
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="text-decoration: none;">
   <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Flutter" />
 </a>
 
